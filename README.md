@@ -1,6 +1,5 @@
 ![image](https://github.com/user-attachments/assets/742c9c17-ace5-49c6-9ee6-22a8a6594a0c)
 <div align="center">
-  <img src="![icon](https://github.com/user-attachments/assets/98a92374-5089-4764-803e-153fe7109cf4)" alt="" width="8s0"/>
   <h1>🧮 SolveMate 🧠</h1>
   <p><i>Breaking barriers in numerical learning for minds that think differently!</i></p>
   
