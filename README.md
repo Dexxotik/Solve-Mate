@@ -1,5 +1,5 @@
 ![icon](https://github.com/user-attachments/assets/0451c451-a08b-4fe7-9802-a344af346229)<div align="center">
-  <img src="![icon](https://github.com/user-attachments/assets/71444964-394b-43f5-b7fd-d489eedbc30c)" alt="SolveMate Logo" width="8s0"/>
+  <img src="(assets/images/icon.jpg)" alt="SolveMate Logo" width="8s0"/>
   <h1>🧮 SolveMate 🧠</h1>
   <p><i>Breaking barriers in numerical learning for minds that think differently!</i></p>
   
