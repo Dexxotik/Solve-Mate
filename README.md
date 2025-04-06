@@ -1,4 +1,5 @@
-![icon](https://github.com/user-attachments/assets/0451c451-a08b-4fe7-9802-a344af346229)<div align="center">
+![icon](https://github.com/user-attachments/assets/742c9c17-ace5-49c6-9ee6-22a8a6594a0c)
+<div align="center">
   <img src="(![icon](https://github.com/user-attachments/assets/98a92374-5089-4764-803e-153fe7109cf4)
 )" alt="SolveMate Logo" width="8s0"/>
   <h1>🧮 SolveMate 🧠</h1>
